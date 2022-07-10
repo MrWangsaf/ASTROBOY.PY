@@ -8,7 +8,7 @@ python3 Astroboy.py
 
 masuk dc real astroboy dulu biar ganteng+ori
 
-
+https://discord.gg/m9uPrZeE
 
 
 
